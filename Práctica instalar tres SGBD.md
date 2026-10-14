@@ -10,7 +10,7 @@ Lo primero que vamos a mostrar para empezar esta tarea son las características 
 
 Aquí podemos ver las características de mi maquina —>
 
-![imagen.png](img\imagen.png)
+![imagen.png](img/imagen.png)
 
 ---
 
